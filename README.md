@@ -1,15 +1,15 @@
 # 🐶🐱 United States Pet Population Dashboard
 
-## 📌 Overview
+# 📌 Overview
 An interactive Power BI dashboard that analyzes cat and dog populations, pet households, and ownership trends across the United States using state-level data.
 
-## 🎯 Objectives
+# 🎯 Objectives
 - Compare cat and dog populations.
 - Analyze pet households by state.
 - Visualize pet distribution across the U.S.
 - Identify pet ownership trends.
 
-## 📊 Dashboard Features
+# 📊 Dashboard Features
 - KPI Cards
 - Dog Population by State
 - Cat Population by State
@@ -19,13 +19,13 @@ An interactive Power BI dashboard that analyzes cat and dog populations, pet hou
 - Average Dogs per Household
 - Average Cats per Household
 
-## 🛠️ Tools Used
+# 🛠️ Tools Used
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-## 📈 Key Insights
+# 📈 Key Insights
 - Cats slightly outnumber dogs overall.
 - California and Texas have the highest pet populations.
 - Pet ownership varies across states.
